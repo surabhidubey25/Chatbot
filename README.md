@@ -1,6 +1,6 @@
 # Chatbot named "WIKIWISE"
 
-![Example Image]([project_preview.png](https://github.com/surabhidubey25/Chatbot/blob/main/chatbot.jpg?raw=true))
+![Example Image](https://github.com/surabhidubey25/Chatbot/blob/main/chatbot.jpg?raw=true)
 
 WIKIWISE is an advanced chatbot designed to seamlessly fetch accurate information from Wikipedia. This project harnesses the power of AI and modern web technologies to provide users with quick, reliable responses, demonstrating the potential of conversational AI in transforming information retrieval.
 
